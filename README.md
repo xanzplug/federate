@@ -22,7 +22,7 @@ The source code isn't public. This repo is where the bot lives on GitHub: what i
 
 ## Commands
 
-Every command works as a slash command and with your server's text prefix (for example `,help`).
+Every command works as a slash command and with your server's text prefix (for example `;help`).
 
 **Moderation**
 - `/hardban` ban someone permanently so they can't be unbanned
